@@ -1,8 +1,6 @@
 # UX Research
 
-Research is crucial to creating a product that satisfies users. As an entry-level designer, it might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!
-
-
+Research is crucial to creating a product that satisfies users. It might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!
 
 ## Type of UX research
 
