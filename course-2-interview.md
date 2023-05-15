@@ -41,3 +41,27 @@ How to find them?
 - Collect supplies: đảm bảo các trang thiết bị. Ví dụ phỏng vấn online thì cần chuẩn bị cho các tình huống phát sinh (ứng viên không biết dùng, gia hạn session như Google Meet chỉ cho 60p/lần...)
 - Research users: lưu tâm đến những thông tin mà users đã cung cấp trước buổi phỏng vấn.
 - Practice: không bao giờ quên việc luyện tập trước.
+
+## Conduct the interview
+
+#### 1. Meet the participant
+- **Build a rapport**: make light conversation (ask how their day was)
+- **Thank users for coming**
+- **Gather basic details**: name, demographic details
+
+#### 2. Conduct the interview
+
+Conducting interviews as a way to empathize with users is all about making the user feel comfortable and asking lots of questions. Here are a couple of things to keep in mind as you conduct interviews:
+- **Follow interview etiquette**: Speak in a clear and concise manner while asking questions, and remain professional no matter how users answer a question.
+- **Ask open-ended questions**
+
+#### 3. Take notes
+- **Highlight compelling quotes**
+- **Document observations about participants**: It's important to record not only what users say, but also their mood, expressions, body language, and behaviors.
+- **Record interviews**: Ask participants if they will allow you to record their interview.
+
+#### 4. End the interview
+After you've asked all of the interview questions, give users a chance to share their final thoughts about any items discussed during the interview. Some participants might open up about their opinions and reveal insights that they didn’t share earlier. 
+
+Also, remember to thank participants once more. You want participants to leave the interview feeling good about you, your future product, and the brand you might be representing. 
+
